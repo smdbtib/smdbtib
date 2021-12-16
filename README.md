@@ -13,4 +13,4 @@ Estou em uma mudança de trajetória, seguindo a trilha de desenvolvedor, avanç
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smdbtib&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smdbtib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smdbtib&layout=compact)]
